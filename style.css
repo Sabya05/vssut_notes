@@ -1,0 +1,81 @@
+body{
+    color:black;
+    background-color:aliceblue;
+}
+
+h1{
+   position: relative;
+   text-align: center;
+}
+h2{
+   position: relative;
+   text-align: center;
+}
+hr{
+  color: brown;
+  size: 5px ;
+}
+.section-D{
+  background-color: bisque;
+  
+}
+.section-J{
+  background-color: bisque;
+  
+
+}
+.section{
+  text-align: center ;
+}
+.button{
+  height: 25px;
+  width: 100px;
+  border-radius: 30px;
+  background-color: cornflowerblue;
+  color: white;
+
+}
+.container1{
+height: 200px;
+margin: 3px;
+background-color:brown;
+border-radius: 10px;
+border-width: 30px;
+text-align: center;
+position: relative;
+width: 23%;
+float: left;
+color: white;
+}
+.container2{
+  height: 200px;
+  margin: 3px;
+  background-color:brown;
+  border-radius: 10px;
+  border-width: 30px;
+  text-align: center;
+ float: left;
+  width: 23%;
+  color: white;
+  }.container3{
+    height: 200px;
+    margin: 3px;
+    background-color:brown;
+    border-radius: 10px;
+    border-width: 30px;
+    text-align: center;
+    float: left;
+    width: 23%;
+    color: white;
+    }.container4{
+      height: 200px;
+      margin: 3px;
+      background-color:brown;
+      border-radius: 10px;
+      border-width: 30px;
+      text-align: center;
+     float:left;
+      width: 23%;
+      color: white;
+      }
+      
